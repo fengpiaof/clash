@@ -109,9 +109,7 @@
 - 优质隧道专线
 - 全平台客户端支持
 - 同时在线设备：2 台
-- 订单日重置流量
-
-免费观看netflix、disney+、primevideo、hbomax （付费套餐）
+- 免费观看netflix、disney+、primevideo、hbomax
 
 网站注册地址：【 [ORYMI（点击注册）](https://orymi.net/#/register?code=rDsEp8Hf)】 九折优惠码：LxwSsaay
 
@@ -126,7 +124,7 @@
 - 同时在线设备：不限制 台
 - 流量按月重置
 - 支持多平台使用
-- 免费观看netflix、disney+
+- 免账号观看netflix、disney+
 
 网站地址：【[星辰加速（点击注册）](https://starlinkboost.com/#/register?code=9kfk8enH)】 九折优惠码：3UJuVnqS
 
